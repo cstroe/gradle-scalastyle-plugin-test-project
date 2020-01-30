@@ -1,0 +1,4 @@
+<scalastyle>
+    <name>Scalastyle Sample Config</name>
+    <check level="error" class="org.scalastyle.file.FileTabChecker" enabled="true"/>
+</scalastyle>
